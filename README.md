@@ -1,6 +1,6 @@
-# OmniStudy Landing Page
+# Omni Landing Page
 
-Modern, mobile-first landing page for the OmniStudy iOS app. Built as a static site for GitHub Pages.
+Modern, mobile-first landing page for the Omni iOS app. Built as a static site for GitHub Pages.
 
 ## What's Included
 - `index.html` for content and layout

@@ -1,9 +1,9 @@
-# Instructions for OmniStudy Landing Website
+# Instructions for Omni Landing Website
 
-Please design and build a modern, high-converting landing page for the **OmniStudy** iOS app (formerly Doc2Quiz).
+Please design and build a modern, high-converting landing page for the **Omni** iOS app (formerly Doc2Quiz).
 
 ## 1. Project Overview
-**App Name**: OmniStudy
+**App Name**: Omni
 **Tagline**: Turn Any Document into a Study Masterclass.
 **Core Value**: Instantly transform study materials (PDFs, notes) into interactive quizzes, flashcards, summaries, and deep insights using AI.
 **Target Audience**: Students, lifelong learners, and professionals preparing for exams or needing to master content quickly.
@@ -19,7 +19,7 @@ Please design and build a modern, high-converting landing page for the **OmniStu
 
 ### A. Hero Section
 - **Headline**: "Master Your Study Material in Seconds."
-- **Subheadline**: "Upload your PDFs or notes. OmniStudy automatically generates quizzes, flashcards, and summaries to help you learn faster."
+- **Subheadline**: "Upload your PDFs or notes. Omni automatically generates quizzes, flashcards, and summaries to help you learn faster."
 - **Visual**: A high-quality mockup of an iPhone running the app, showing the **Document Dashboard** or the **Quiz Interface**.
 - **CTA**: "Download on the App Store" button (Use official Apple badge).
 
@@ -46,7 +46,7 @@ Highlight these key features with icons and short descriptions:
 
 ### F. Footer
 -   Links: Privacy Policy, Terms of Service, Support (Email), Twitter/Socials.
--   Copyright © 2026 OmniStudy.
+-   Copyright © 2026 Omni.
 
 ## 4. Technical Constraints & Details
 -   **Monetization**: Mention "Free to start, upgrade for power features."
