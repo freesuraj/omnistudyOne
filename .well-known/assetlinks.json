@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.suraj.apps.Doc2Quiz",
+      "sha256_cert_fingerprints": [
+        "31:2D:0D:7E:A7:A3:F3:9B:04:34:75:2F:FE:30:D4:65:6B:6A:55:4C:1E:18:C6:BB:A1:55:83:F6:C4:A9:B0:63"
+      ]
+    }
+  }
+]
