@@ -3,14 +3,20 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Omni iOS app landing page. Turn any document into a study masterclass with AI quizzes, flashcards, summaries, and insights." />
+    <meta name="description" content="Omni is an AI study app for iPhone and Android: turn PDFs, notes, web pages, and audio into quizzes, flashcards, summaries, and deep analysis in seconds." />
+    <meta name="keywords" content="AI study app, PDF to quiz, flashcards app, audio transcription app, lecture notes app, document summarizer, Omni app" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://omnistudy.site/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Omni — Master Your Study Material in Seconds" />
-    <meta property="og:description" content="Turn any document into a study masterclass with AI quizzes, flashcards, summaries, and insights." />
+    <meta property="og:description" content="AI study app for PDFs, web content, and audio. Generate quizzes, flashcards, summaries, and deep analysis instantly." />
     <meta property="og:url" content="https://omnistudy.site/" />
     <meta property="og:image" content="https://omnistudy.site/assets/appIcon.png" />
+    <meta property="og:site_name" content="Omni" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Omni — Master Your Study Material in Seconds" />
+    <meta name="twitter:description" content="AI study app for PDFs, web content, and audio. Generate quizzes, flashcards, summaries, and deep analysis instantly." />
+    <meta name="twitter:image" content="https://omnistudy.site/assets/appIcon.png" />
     <title>Omni — Master Your Study Material in Seconds</title>
     <link rel="icon" type="image/png" href="assets/appIcon.png" />
     <link rel="apple-touch-icon" href="assets/appIcon.png" />
@@ -18,6 +24,59 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Sora:wght@500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://omnistudy.site/#organization",
+            "name": "Su Media",
+            "url": "https://omnistudy.site/",
+            "logo": "https://omnistudy.site/assets/appIcon.png"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://omnistudy.site/#website",
+            "url": "https://omnistudy.site/",
+            "name": "Omni",
+            "publisher": {
+              "@id": "https://omnistudy.site/#organization"
+            },
+            "inLanguage": "en"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "@id": "https://omnistudy.site/#software",
+            "name": "Omni",
+            "applicationCategory": "EducationalApplication",
+            "operatingSystem": "iOS, Android",
+            "description": "AI study app that turns PDFs, web content, notes, and audio into quizzes, flashcards, summaries, and deep analysis.",
+            "offers": [
+              {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD",
+                "name": "Free Tier"
+              },
+              {
+                "@type": "Offer",
+                "price": "3.99",
+                "priceCurrency": "USD",
+                "name": "Omni Pro Monthly"
+              }
+            ],
+            "downloadUrl": [
+              "https://apps.apple.com/app/id6758739891",
+              "https://play.google.com/store/apps/details?id=com.suraj.apps.Doc2Quiz"
+            ],
+            "publisher": {
+              "@id": "https://omnistudy.site/#organization"
+            }
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <div class="bg-sheen" aria-hidden="true"></div>
@@ -33,6 +92,7 @@
           <a href="#demo" class="nav-link">Demo</a>
           <a href="#screenshots" class="nav-link">Screenshots</a>
           <a href="#pricing" class="nav-link">Pricing</a>
+          <a href="#use-cases" class="nav-link">Use Cases</a>
         </nav>
         <a class="cta cta--ghost" href="#download">Get the App</a>
       </div>
@@ -299,6 +359,32 @@
         </div>
       </section>
 
+      <section class="how" id="use-cases">
+        <div class="container">
+          <div class="section-head reveal">
+            <p class="eyebrow">Use cases</p>
+            <h2>Explore Omni by learning workflow.</h2>
+          </div>
+          <div class="how__steps">
+            <a class="step reveal" href="pdf-to-quiz.html">
+              <span class="step__index">PDF</span>
+              <h3>PDF to Quiz</h3>
+              <p>Upload lecture slides or handouts and generate test-ready quiz sets in seconds.</p>
+            </a>
+            <a class="step reveal" href="audio-to-notes.html">
+              <span class="step__index">AUDIO</span>
+              <h3>Audio to Notes</h3>
+              <p>Convert voice notes and class recordings into clean summaries, flashcards, and action points.</p>
+            </a>
+            <a class="step reveal" href="lecture-transcription.html">
+              <span class="step__index">LIVE</span>
+              <h3>Lecture Transcription</h3>
+              <p>Record live sessions, transcribe instantly, and study with AI-generated key insights.</p>
+            </a>
+          </div>
+        </div>
+      </section>
+
       <section class="cta-panel" aria-labelledby="cta-title">
         <div class="container cta-panel__inner reveal">
           <div>
@@ -335,6 +421,9 @@
           <p class="footer__text">Secure AI-powered study workflows for students and researchers alike. Privacy-first and built for focus.</p>
         </div>
         <div class="footer__links">
+          <a href="pdf-to-quiz.html">PDF to Quiz</a>
+          <a href="audio-to-notes.html">Audio to Notes</a>
+          <a href="lecture-transcription.html">Lecture Transcription</a>
           <a href="privacy.html">Privacy Policy</a>
           <a href="terms.html">Terms of Service</a>
           <a href="support.html">Support</a>

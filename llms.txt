@@ -9,6 +9,9 @@ Site: https://omnistudy.site/
 - Privacy Policy: https://omnistudy.site/privacy.html
 - Terms of Service: https://omnistudy.site/terms.html
 - Support: https://omnistudy.site/support.html
+- PDF to Quiz: https://omnistudy.site/pdf-to-quiz.html
+- Audio to Notes: https://omnistudy.site/audio-to-notes.html
+- Lecture Transcription: https://omnistudy.site/lecture-transcription.html
 
 ## Notes
 - Privacy-first product messaging.
