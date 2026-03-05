@@ -1,0 +1,16 @@
+# Omni
+
+Omni is an AI study app that turns documents, web content, and audio into quizzes, flashcards, summaries, and insights.
+
+Site: https://omnistudy.site/
+
+## Key pages
+- Landing page: https://omnistudy.site/
+- Privacy Policy: https://omnistudy.site/privacy.html
+- Terms of Service: https://omnistudy.site/terms.html
+- Support: https://omnistudy.site/support.html
+
+## Notes
+- Privacy-first product messaging.
+- iOS App Store listing: https://apps.apple.com/app/id6758739891
+- Android Play Store listing: https://play.google.com/store/apps/details?id=com.suraj.apps.Doc2Quiz
