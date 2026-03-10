@@ -12,6 +12,7 @@ Site: https://omnistudy.site/
 - PDF to Quiz: https://omnistudy.site/pdf-to-quiz.html
 - Audio to Notes: https://omnistudy.site/audio-to-notes.html
 - Lecture Transcription: https://omnistudy.site/lecture-transcription.html
+- Screenshot Showcase: https://omnistudy.site/showcase.html
 
 ## Notes
 - Privacy-first product messaging.

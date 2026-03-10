@@ -624,6 +624,20 @@ h3 {
   text-align: center;
 }
 
+.showcase-scroll {
+  max-height: 78vh;
+  overflow-y: auto;
+  padding: 18px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--glass);
+  box-shadow: var(--shadow);
+}
+
+.showcase-scroll .screens__grid {
+  margin: 0;
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(20px);
