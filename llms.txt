@@ -18,3 +18,7 @@ Site: https://omnistudy.site/
 - Privacy-first product messaging.
 - iOS App Store listing: https://apps.apple.com/app/id6758739891
 - Android Play Store listing: https://play.google.com/store/apps/details?id=com.suraj.apps.Doc2Quiz
+- Facebook: https://www.facebook.com/omniainotes/
+- X (Twitter): https://x.com/omniainotes
+- Instagram: https://www.instagram.com/omniainotes/
+- TikTok: https://www.tiktok.com/@omnianotes
